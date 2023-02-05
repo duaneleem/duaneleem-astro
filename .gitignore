@@ -21,4 +21,5 @@ pnpm-debug.log*
 .DS_Store
 
 # Temp
-other/temp/
+other/temp/**
+other/temp/**/.gitkeep
